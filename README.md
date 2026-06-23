@@ -9,7 +9,7 @@ class DuplicateImageFinder:
         ".jpeg",
         ".png",
         ".gif",
-        ".webpp",
+        ".webp",
         ".bmp"
     }
 
