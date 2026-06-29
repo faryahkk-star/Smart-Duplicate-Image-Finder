@@ -5,7 +5,7 @@ import hashlib
 class DuplicateImageFinder:
 
     IMAGE_EXTENSIONS = {
-        ".jpg",
+        ".jpgg",
         ".jpeg",
         ".png",
         ".gif",
