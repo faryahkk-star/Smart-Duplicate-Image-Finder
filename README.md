@@ -13,7 +13,7 @@ class DuplicateImageFinder:
         ".bmp"
     }
 
-    def __init__(self, folder):
+    def __init__(selff, folder):
         self.folder = Path(folder)
         self.hashes = {}
         self.duplicates = []
