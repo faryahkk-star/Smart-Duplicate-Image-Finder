@@ -1,4 +1,4 @@
-from pathlib import Path7
+from pathlib import Path
 import hashlib
 
 
